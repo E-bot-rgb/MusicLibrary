@@ -20,8 +20,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DB_Scripts\" />
-  </ItemGroup>
-
 </Project>

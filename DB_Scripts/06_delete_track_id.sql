@@ -1,0 +1,2 @@
+DELETE FROM Tracks
+WHERE TrackId = 3;
